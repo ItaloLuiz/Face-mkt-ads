@@ -1,9 +1,9 @@
 <?php 
 
-$app_id = '2204624902915529';
-$app_secret = '0a965d1a202b430d2d5aba520e177618';
-$account_id = '113634566327413';// teste
+$app_id = '';
+$app_secret = '';
+$account_id = '';// teste
 
-//$account_id = '258725951253917';//conta real
+//$account_id = '';//conta real
 
-$access_token = 'EAAfVGDwzhckBACVrDw2RXvXnZAl6uQtCyiQgNpctnWrjVPMFqiSYcTdL00TEOKLXmJqrf9qmuPz5YnIW81c8KMLHJ1EUryG90dJS6dXURjsjqH5MCJaxi3N5IW91GLkTIzAQ87n55A1IEirZAMoNgy1rShUtGeHZCsB7oPtYH42vPZAbzNSPI527R5PZCxfaMBkIr71Ezv9KWJrPMd8rQD1tK4Q9wrn2gGVBaucUaMwZDZD';
+$access_token = '';
