@@ -1,4 +1,7 @@
 <?php 
+/*
+Pegar dados da campanha, gastos gerais,cpc,cpm
+*/
 echo '<pre>';
 require_once 'vendor/autoload.php'; // change path as needed
 require 'config.php';
